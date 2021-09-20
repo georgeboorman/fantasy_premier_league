@@ -1,5 +1,5 @@
 # Fantasy Premier League
-Python (Streamlit)[https://streamlit.io/] app for analyzing Fantasy Premier League performance in 2020-21 season. 
+Python [Streamlit](https://streamlit.io/) app for analyzing [Fantasy Premier League](https://fantasy.premierleague.com/) performance in 2020-21 season. 
 
 This app allows users to view the fantasy premier league performance of players in the 2020-21 season. 
 
