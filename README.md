@@ -10,4 +10,4 @@ There are 3 outputs currently available:
 * Top 10 performers by position - specify the position you want to analyze and the app will return the best 10 players for this position as a bar chart, sorted by total fantasy points scored.
 * Individual performance - select a player and the app will return a scatter plot displaying points scored per game week and who the opponent team was.
 
-You canvView the app [here](https://share.streamlit.io/georgeboorman/fantasy_premier_league/main/fpl_app.py).
+You canv view the app [here](https://share.streamlit.io/georgeboorman/fantasy_premier_league/main/fpl_app.py).
