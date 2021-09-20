@@ -1,0 +1,727 @@
+,player,team,position,total,average
+0,Bruno Miguel Borges Fernandes,Man Utd,Midfielder,244,6.42
+1,Harry Kane,Spurs,Striker,242,6.37
+2,Mohamed Salah,Liverpool,Midfielder,231,6.08
+3,Heung-Min Son,Spurs,Midfielder,228,6.0
+4,Patrick Bamford,Leeds,Striker,194,5.11
+5,Jamie Vardy,Leicester,Striker,187,4.92
+6,Emiliano Martínez,Aston Villa,Goalkeeper,186,4.89
+7,Sadio Mané,Liverpool,Midfielder,176,4.63
+8,Marcus Rashford,Man Utd,Midfielder,174,4.58
+9,Stuart Dallas,Leeds,Defender,171,4.5
+10,Ollie Watkins,Aston Villa,Striker,168,4.42
+11,Dominic Calvert-Lewin,Everton,Striker,165,4.34
+12,Andrew Robertson,Liverpool,Defender,161,4.24
+15,Ederson Santana de Moraes,Man City,Goalkeeper,160,4.21
+13,Trent Alexander-Arnold,Liverpool,Defender,160,4.21
+14,Jack Harrison,Leeds,Midfielder,160,4.21
+16,Ilkay Gündogan,Man City,Midfielder,157,4.13
+17,James Ward-Prowse,Southampton,Midfielder,156,4.11
+18,Raheem Sterling,Man City,Midfielder,154,4.05
+19,Illan Meslier,Leeds,Goalkeeper,154,4.05
+20,Matheus Pereira,West Brom,Midfielder,153,4.03
+21,Aaron Cresswell,West Ham,Defender,153,4.03
+22,Hugo Lloris,Spurs,Goalkeeper,149,3.92
+24,Tomas Soucek,West Ham,Midfielder,147,3.87
+23,Mason Mount,Chelsea,Midfielder,147,3.87
+25,Riyad Mahrez,Man City,Midfielder,145,3.82
+26,Nick Pope,Burnley,Goalkeeper,144,3.79
+27,Aaron Wan-Bissaka,Man Utd,Defender,144,3.79
+28,Rúben Santos Gato Alves Dias,Man City,Defender,142,3.94
+29,Kevin De Bruyne,Man City,Midfielder,141,3.71
+30,Roberto Firmino,Liverpool,Striker,141,3.71
+31,Jarrod Bowen,West Ham,Midfielder,141,3.71
+32,Edouard Mendy,Chelsea,Goalkeeper,140,3.89
+33,Alisson Ramses Becker,Liverpool,Goalkeeper,140,3.68
+34,Sam Johnstone,West Brom,Goalkeeper,140,3.68
+35,Benjamin Chilwell,Chelsea,Defender,139,3.66
+36,Matt Targett,Aston Villa,Defender,138,3.63
+37,João Pedro Cavaco Cancelo,Man City,Defender,138,3.63
+38,Chris Wood,Burnley,Striker,138,3.63
+39,Che Adams,Southampton,Striker,137,3.61
+40,Wilfried Zaha,Crystal Palace,Midfielder,136,3.58
+41,Bertrand Traoré,Aston Villa,Midfielder,135,3.65
+42,Jack Grealish,Aston Villa,Midfielder,135,3.55
+43,Phil Foden,Man City,Midfielder,135,3.55
+44,Callum Wilson,Newcastle,Striker,134,3.53
+48,Lukasz Fabianski,West Ham,Goalkeeper,133,3.5
+47,Raphael Dias Belloli,Leeds,Midfielder,133,3.91
+46,James Maddison,Leicester,Midfielder,133,3.5
+45,Youri Tielemans,Leicester,Midfielder,133,3.5
+50,Leandro Trossard,Brighton,Midfielder,132,3.47
+49,Rui Pedro dos Santos Patrício,Wolves,Goalkeeper,132,3.47
+51,Danny Ings,Southampton,Striker,131,3.45
+52,Bernd Leno,Arsenal,Goalkeeper,131,3.45
+53,Pierre-Emerick Aubameyang,Arsenal,Midfielder,131,3.45
+54,Lewis Dunk,Brighton,Defender,130,3.42
+55,Alexandre Lacazette,Arsenal,Striker,129,3.39
+59,Kasper Schmeichel,Leicester,Goalkeeper,128,3.37
+60,Vladimir Coufal,West Ham,Defender,128,3.66
+57,Timo Werner,Chelsea,Striker,128,3.37
+58,Tyrone Mings,Aston Villa,Defender,128,3.37
+56,John Stones,Man City,Defender,128,3.37
+61,Michael Keane,Everton,Defender,127,3.34
+62,Harvey Barnes,Leicester,Midfielder,126,3.32
+63,Pablo Fornals,West Ham,Midfielder,125,3.29
+64,Eberechi Eze,Crystal Palace,Midfielder,125,3.29
+67,Pedro Lomba Neto,Wolves,Midfielder,124,3.26
+68,Luke Shaw,Man Utd,Defender,124,3.26
+69,Alphonse Areola,Fulham,Goalkeeper,124,3.26
+66,Harry Maguire,Man Utd,Defender,124,3.26
+65,Vicente Guaita,Crystal Palace,Goalkeeper,124,3.26
+70,Richarlison de Andrade,Everton,Striker,123,3.24
+71,Aaron Ramsdale,Sheffield Utd,Goalkeeper,123,3.24
+72,Gylfi Sigurdsson,Everton,Midfielder,122,3.21
+73,Lucas Digne,Everton,Defender,120,3.16
+74,Ezri Konsa Ngoyo,Aston Villa,Defender,119,3.13
+75,Michail Antonio,West Ham,Striker,118,3.11
+76,Pascal Groß,Brighton,Midfielder,116,3.05
+77,Stuart Armstrong,Southampton,Midfielder,115,3.03
+78,Gabriel Fernando de Jesus,Man City,Striker,115,3.03
+82,John McGinn,Aston Villa,Midfielder,114,3.0
+83,Jordan Pickford,Everton,Goalkeeper,114,3.0
+79,Nicolas Pépé,Arsenal,Midfielder,114,3.0
+81,Bukayo Saka,Arsenal,Midfielder,114,3.0
+80,Jorge Luiz Frello Filho,Chelsea,Midfielder,114,3.0
+84,Dwight McNeil,Burnley,Midfielder,113,2.97
+85,Gareth Bale,Spurs,Midfielder,113,3.14
+86,César Azpilicueta,Chelsea,Defender,113,2.97
+87,Reece James,Chelsea,Defender,112,2.95
+88,Ashley Westwood,Burnley,Midfielder,112,2.95
+89,Anwar El Ghazi,Aston Villa,Midfielder,111,2.92
+91,Kelechi Iheanacho,Leicester,Striker,110,2.89
+90,Ezgjan Alioski,Leeds,Defender,110,2.89
+92,Jonny Evans,Leicester,Defender,109,2.87
+93,James Tarkowski,Burnley,Defender,109,2.87
+94,Nélson Cabral Semedo,Wolves,Defender,109,3.03
+95,Kurt Zouma,Chelsea,Defender,108,2.84
+96,Pierre-Emile Højbjerg,Spurs,Midfielder,107,2.82
+97,Ademola Lookman,Fulham,Midfielder,107,3.06
+98,Mason Greenwood,Man Utd,Midfielder,106,2.79
+99,Jesse Lingard,West Ham,Midfielder,106,5.89
+100,Conor Coady,Wolves,Defender,106,2.79
+101,Christian Benteke,Crystal Palace,Striker,106,2.79
+103,Neal Maupay,Brighton,Striker,105,2.76
+102,Rob Holding,Arsenal,Defender,105,2.76
+104,Rúben Diogo da Silva Neves,Wolves,Midfielder,104,2.74
+105,Ben White,Brighton,Defender,104,2.74
+106,Matthew Lowton,Burnley,Defender,103,2.71
+107,Victor Lindelöf,Man Utd,Defender,102,2.68
+108,Ben Mee,Burnley,Defender,102,2.68
+109,Ola Aina,Fulham,Defender,102,2.91
+110,James Justin,Leicester,Defender,101,2.66
+111,Robert Sánchez,Brighton,Goalkeeper,101,3.16
+112,James Rodríguez,Everton,Midfielder,101,2.66
+116,Luke Ayling,Leeds,Defender,100,2.63
+117,Tosin Adarabioyo,Fulham,Defender,100,2.94
+113,Angelo Ogbonna,West Ham,Defender,100,2.63
+115,David McGoldrick,Sheffield Utd,Striker,100,2.63
+114,Ben Godfrey,Everton,Defender,100,2.94
+118,Mateusz Klich,Leeds,Midfielder,99,2.61
+119,Tanguy Ndombele,Spurs,Midfielder,99,2.61
+120,Romain Saïss,Wolves,Defender,99,2.61
+121,Edinson Cavani,Man Utd,Striker,99,2.83
+122,Georginio Wijnaldum,Liverpool,Midfielder,97,2.55
+123,Miguel Almirón,Newcastle,Midfielder,97,2.55
+125,Kieran Tierney,Arsenal,Defender,96,2.53
+124,Joël Veltman,Brighton,Defender,96,2.53
+126,Ferran Torres,Man City,Midfielder,95,2.5
+127,Timothy Castagne,Leicester,Defender,94,2.47
+128,Adama Traoré,Wolves,Midfielder,94,2.47
+129,Bernardo Mota Veiga de Carvalho e Silva,Man City,Midfielder,94,2.47
+130,Jan Bednarek,Southampton,Defender,94,2.47
+131,Andros Townsend,Crystal Palace,Midfielder,94,2.47
+132,Alex McCarthy,Southampton,Goalkeeper,94,2.47
+133,Héctor Bellerín,Arsenal,Defender,94,2.47
+136,Antonio Rüdiger,Chelsea,Defender,93,2.45
+135,Kyle Walker-Peters,Southampton,Defender,93,2.45
+134,Joachim Andersen,Fulham,Defender,93,2.74
+137,Paul Pogba,Man Utd,Midfielder,92,2.42
+138,Thiago Thiago,Chelsea,Defender,92,2.42
+139,David de Gea,Man Utd,Goalkeeper,91,2.39
+140,Scott McTominay,Man Utd,Midfielder,91,2.39
+141,Kai Havertz,Chelsea,Midfielder,91,2.39
+142,Kyle Walker,Man City,Defender,91,2.39
+143,Rodrigo Hernandez,Man City,Midfielder,91,2.39
+147,Matthew Cash,Aston Villa,Defender,89,2.34
+146,Danny Welbeck,Brighton,Striker,89,2.7
+145,Rodrigo Moreno,Leeds,Striker,89,2.34
+144,Sergio Reguilón,Spurs,Defender,89,2.47
+148,Toby Alderweireld,Spurs,Defender,88,2.32
+149,Bobby Decordova-Reid,Fulham,Striker,88,2.32
+150,Diogo Jota,Liverpool,Midfielder,86,2.39
+151,Declan Rice,West Ham,Midfielder,86,2.26
+152,Jannik Vestergaard,Southampton,Defender,86,2.26
+153,Adam Webster,Brighton,Defender,85,2.24
+154,Ivan Ricardo Neves Abreu Cavaleiro,Fulham,Midfielder,85,2.24
+155,Allan Saint-Maximin,Newcastle,Midfielder,85,2.24
+156,Charlie Taylor,Burnley,Defender,83,2.18
+158,Cheikhou Kouyaté,Crystal Palace,Midfielder,82,2.16
+157,Christian Pulisic,Chelsea,Midfielder,82,2.16
+159,Seamus Coleman,Everton,Defender,81,2.13
+160,Mason Holgate,Everton,Defender,80,2.11
+161,Lucas Rodrigues Moura da Silva,Spurs,Midfielder,80,2.11
+162,Karl Darlow,Newcastle,Goalkeeper,80,2.11
+163,Abdoulaye Doucouré,Everton,Midfielder,80,2.11
+164,Serge Aurier,Spurs,Defender,80,2.11
+167,Kyle Bartley,West Brom,Defender,79,2.08
+168,Wilfred Ndidi,Leicester,Midfielder,79,2.08
+169,Yerry Mina,Everton,Defender,79,2.08
+166,Callum Robinson,West Brom,Striker,79,2.08
+165,Darnell Furlong,West Brom,Defender,79,2.08
+170,Gabriel Magalhães,Arsenal,Defender,78,2.05
+171,Marc Albrighton,Leicester,Midfielder,78,2.05
+172,Willian Borges Da Silva,Arsenal,Midfielder,78,2.05
+173,Ryan Bertrand,Southampton,Defender,78,2.05
+174,Eric Dier,Spurs,Defender,77,2.03
+175,Yves Bissouma,Brighton,Midfielder,77,2.03
+176,Leander Dendoncker,Wolves,Midfielder,77,2.03
+177,Conor Townsend,West Brom,Defender,76,2.0
+178,André-Frank Zambo Anguissa,Fulham,Midfielder,76,2.0
+182,Craig Dawson,West Ham,Defender,75,2.21
+181,Daniel Castelo Podence,Wolves,Midfielder,75,1.97
+180,Theo Walcott,Southampton,Midfielder,75,2.21
+179,Anthony Martial,Man Utd,Striker,75,1.97
+183,Emile Smith Rowe,Arsenal,Midfielder,74,1.95
+186,Ross Barkley,Aston Villa,Midfielder,74,2.06
+187,Josh Brownhill,Burnley,Midfielder,74,1.95
+184,Jonjo Shelvey,Newcastle,Midfielder,74,1.95
+185,Joelinton Cássio Apolinário de Lira,Newcastle,Striker,74,1.95
+188,Saïd Benrahma,West Ham,Midfielder,73,2.21
+189,João Filipe Iria Santos Moutinho,Wolves,Midfielder,73,1.92
+190,Fabio Silva,Wolves,Striker,72,1.89
+191,Douglas Luiz Soares de Paulo,Aston Villa,Midfielder,72,1.89
+192,Joseph Willock,Newcastle,Midfielder,72,4.24
+196,Wesley Fofana,Leicester,Defender,71,2.03
+195,Conor Gallagher,West Brom,Midfielder,71,1.97
+194,Pascal Struijk,Leeds,Defender,71,1.87
+193,Fabio Henrique Tavares,Liverpool,Midfielder,71,1.87
+197,Hakim Ziyech,Chelsea,Midfielder,70,1.84
+198,Granit Xhaka,Arsenal,Midfielder,70,1.84
+199,Jordan Ayew,Crystal Palace,Striker,70,1.84
+200,John Fleck,Sheffield Utd,Midfielder,70,1.84
+205,Matt Phillips,West Brom,Midfielder,69,1.82
+207,Solomon March,Brighton,Midfielder,69,1.82
+206,Jacob Murphy,Newcastle,Midfielder,69,1.82
+203,Oleksandr Zinchenko,Man City,Defender,69,1.82
+204,Frederico Rodrigues de Paula Santos,Man Utd,Midfielder,69,1.82
+202,Tammy Abraham,Chelsea,Striker,69,1.82
+201,Harrison Reed,Fulham,Midfielder,69,1.82
+208,Willy Boly,Wolves,Defender,68,1.79
+209,Nathaniel Phillips,Liverpool,Defender,68,2.06
+210,Nathan Redmond,Southampton,Midfielder,67,1.76
+211,Kalvin Phillips,Leeds,Midfielder,67,1.76
+212,Joel Ward,Crystal Palace,Defender,66,1.74
+215,Fernando Luiz Rosa,Man City,Defender,65,1.71
+214,Jeffrey Schlupp,Crystal Palace,Midfielder,65,1.71
+213,Alex Iwobi,Everton,Midfielder,65,1.71
+216,Jairo Riedewald,Crystal Palace,Midfielder,64,1.68
+217,Ruben Loftus-Cheek,Fulham,Midfielder,64,1.88
+218,Dan Burn,Brighton,Defender,64,1.68
+219,Luka Milivojevic,Crystal Palace,Midfielder,63,1.66
+220,George Baldock,Sheffield Utd,Defender,63,1.66
+221,Aleksandar Mitrović,Fulham,Striker,63,1.66
+222,Hélder Wander Sousa de Azevedo e Costa,Leeds,Midfielder,63,1.66
+223,Benjamin Mendy,Man City,Defender,63,1.66
+226,N'Golo Kanté,Chelsea,Midfielder,62,1.63
+225,Daniel Ceballos Fernández,Arsenal,Midfielder,62,1.63
+224,Matej Vydra,Burnley,Striker,62,1.63
+227,Andreas Christensen,Chelsea,Defender,61,1.61
+229,Callum Hudson-Odoi,Chelsea,Midfielder,59,1.55
+230,Liam Cooper,Leeds,Defender,59,1.55
+228,Çaglar Söyüncü,Leicester,Defender,59,1.55
+231,Max Kilman,Wolves,Defender,58,1.53
+232,Adam Lallana,Brighton,Midfielder,58,1.53
+233,Tyrick Mitchell,Crystal Palace,Defender,58,1.53
+234,Ayoze Pérez,Leicester,Midfielder,58,1.53
+235,Aymeric Laporte,Man City,Defender,58,1.53
+238,Marcos Alonso,Chelsea,Defender,57,1.5
+239,Mbaye Diagne,West Brom,Striker,57,3.17
+237,Antonee Robinson,Fulham,Defender,57,1.5
+236,John Egan,Sheffield Utd,Defender,57,1.5
+240,Enda Stevens,Sheffield Utd,Defender,56,1.47
+241,Mahmoud Ahmed Ibrahim Hassan,Aston Villa,Midfielder,56,1.47
+242,Jordan Henderson,Liverpool,Midfielder,56,1.47
+243,Mario Lemina,Fulham,Midfielder,55,1.45
+244,Steven Bergwijn,Spurs,Midfielder,55,1.45
+245,Thiago Alcántara do Nascimento,Liverpool,Midfielder,55,1.49
+249,Oliver Norwood,Sheffield Utd,Midfielder,54,1.42
+250,Rayan Ait Nouri,Wolves,Defender,54,1.59
+247,Mateo Kovacic,Chelsea,Midfielder,54,1.42
+248,Patrick van Aanholt,Crystal Palace,Defender,54,1.42
+246,Jay Rodriguez,Burnley,Striker,54,1.42
+251,Federico Fernández,Newcastle,Defender,53,1.39
+252,Gary Cahill,Crystal Palace,Defender,53,1.39
+253,Oriol Romeu Vidal,Southampton,Midfielder,52,1.37
+254,Ashley Barnes,Burnley,Striker,52,1.37
+255,Matt Ritchie,Newcastle,Midfielder,52,1.37
+256,Jeff Hendrick,Newcastle,Midfielder,52,1.37
+257,Ben Davies,Spurs,Defender,52,1.37
+260,Oluwasemilogo Adesewo Ibidapo Ajayi,West Brom,Defender,51,1.34
+259,Ben Osborn,Sheffield Utd,Midfielder,51,1.34
+258,Chris Basham,Sheffield Utd,Defender,51,1.34
+261,Kenny Tete,Fulham,Defender,50,1.32
+262,Diego Llorente,Leeds,Defender,50,1.39
+263,Johann Berg Gudmundsson,Burnley,Midfielder,50,1.32
+264,Mohamed Naser El Sayed Elneny,Arsenal,Midfielder,50,1.32
+265,Curtis Jones,Liverpool,Midfielder,50,1.32
+266,Erik Pieters,Burnley,Defender,50,1.32
+267,Tyler Roberts,Leeds,Midfielder,49,1.29
+270,Martin Dubravka,Newcastle,Goalkeeper,48,1.26
+271,Alexis Mac Allister,Brighton,Midfielder,48,1.26
+269,John Lundstram,Sheffield Utd,Midfielder,48,1.26
+268,André Filipe Tavares Gomes,Everton,Midfielder,48,1.26
+272,Olivier Giroud,Chelsea,Striker,47,1.24
+273,Tom Davies,Everton,Midfielder,47,1.24
+274,Thomas Partey,Arsenal,Midfielder,47,1.38
+275,Allan Marques Loureiro,Everton,Midfielder,47,1.24
+276,Matt Doherty,Spurs,Defender,47,1.24
+277,Ciaran Clark,Newcastle,Defender,46,1.21
+278,Oliver Burke,Sheffield Utd,Midfielder,46,1.21
+279,Moussa Djenepo,Southampton,Midfielder,46,1.21
+281,Emil Krafth,Newcastle,Defender,45,1.18
+280,James McArthur,Crystal Palace,Midfielder,45,1.18
+282,Robbie Brady,Burnley,Midfielder,44,1.16
+283,Dean Henderson,Man Utd,Goalkeeper,44,1.16
+284,James Milner,Liverpool,Midfielder,44,1.16
+285,Moussa Sissoko,Spurs,Midfielder,44,1.16
+286,Ethan Ampadu,Sheffield Utd,Defender,44,1.16
+287,Oliver McBurnie,Sheffield Utd,Striker,44,1.16
+288,Jamal Lewis,Newcastle,Defender,44,1.16
+289,Jamaal Lascelles,Newcastle,Defender,44,1.16
+292,Davinson Sánchez,Spurs,Defender,43,1.13
+291,Raúl Jiménez,Wolves,Striker,43,1.13
+290,Daniel James,Man Utd,Midfielder,43,1.13
+294,Arthur Masuaku,West Ham,Defender,42,1.11
+295,Issa Diop,West Ham,Defender,42,1.11
+296,Ainsley Maitland-Niles,West Brom,Defender,42,2.47
+293,Joel Matip,Liverpool,Defender,42,1.11
+302,Jack Stephens,Southampton,Defender,41,1.08
+304,Michy Batshuayi,Crystal Palace,Striker,41,1.08
+303,Karlan Grant,West Brom,Striker,41,1.21
+301,Dara O'Shea,West Brom,Defender,41,1.08
+300,David Luiz Moreira Marinho,Arsenal,Defender,41,1.08
+299,Sébastien Haller,West Ham,Striker,41,1.08
+298,Nampalys Mendy,Leicester,Midfielder,41,1.08
+297,Sean Longstaff,Newcastle,Midfielder,41,1.08
+305,Willian José Da Silva,Wolves,Striker,40,2.11
+306,Paul Dummett,Newcastle,Defender,40,1.05
+307,Josh Maja,Fulham,Striker,40,2.35
+308,Martin Ødegaard,Arsenal,Midfielder,40,2.22
+309,Isaac Hayden,Newcastle,Midfielder,40,1.05
+313,Ryan Fraser,Newcastle,Midfielder,39,1.03
+314,Jayden Bogle,Sheffield Utd,Defender,39,1.03
+315,Grady Diangana,West Brom,Midfielder,39,1.03
+312,Billy Sharp,Sheffield Utd,Striker,39,1.03
+310,Fabián Balbuena,West Ham,Defender,39,1.03
+311,Scott Dann,Crystal Palace,Defender,39,1.03
+316,Aaron Connolly,Brighton,Striker,38,1.0
+318,Sergio Agüero,Man City,Striker,38,1.0
+317,Robin Koch,Leeds,Defender,38,1.0
+319,Dennis Praet,Leicester,Midfielder,37,0.97
+322,Nemanja Matic,Man Utd,Midfielder,36,0.95
+323,Nathan Tella,Southampton,Midfielder,36,0.95
+324,Edward Nketiah,Arsenal,Striker,36,0.95
+321,Calum Chambers,Arsenal,Defender,36,0.95
+320,Gabriel Teodoro Martinelli Silva,Arsenal,Midfielder,36,0.95
+326,Giovani Lo Celso,Spurs,Midfielder,35,0.92
+327,Steven Alzate,Brighton,Midfielder,35,0.92
+325,Tariq Lamptey,Brighton,Defender,35,0.92
+328,Rhian Brewster,Sheffield Utd,Striker,34,0.97
+329,Pablo Marí,Arsenal,Defender,34,0.89
+330,Okay Yokuslu,West Brom,Midfielder,34,2.0
+331,Ahmed El Mohamady,Aston Villa,Defender,33,0.87
+332,Romaine Sawyers,West Brom,Midfielder,33,0.87
+333,Jack Cork,Burnley,Midfielder,33,0.87
+336,Jack Robinson,Sheffield Utd,Defender,32,0.84
+337,Juan Mata,Man Utd,Midfielder,32,0.84
+335,Donny van de Beek,Man Utd,Midfielder,32,0.84
+334,Kortney Hause,Aston Villa,Defender,32,0.84
+338,Dwight Gayle,Newcastle,Striker,31,0.82
+339,Sander Berge,Sheffield Utd,Midfielder,31,0.82
+340,Takumi Minamino,Southampton,Midfielder,31,1.72
+341,Eric Bailly,Man Utd,Defender,31,0.82
+342,Ibrahima Diallo,Southampton,Midfielder,31,0.91
+343,Andy Carroll,Newcastle,Striker,30,0.79
+344,Fraser Forster,Southampton,Goalkeeper,30,0.79
+345,Bamidele Alli,Spurs,Midfielder,30,0.79
+346,Hal Robson-Kanu,West Brom,Striker,30,0.79
+347,Fabian Schär,Newcastle,Defender,30,0.79
+349,Nathan Aké,Man City,Defender,29,0.76
+348,Kean Bryan,Sheffield Utd,Defender,29,1.0
+350,Rhys Williams,Liverpool,Defender,28,0.88
+351,Javier Manquillo,Newcastle,Defender,28,0.74
+352,Cédric Soares,Arsenal,Defender,28,0.74
+353,Erik Lamela,Spurs,Midfielder,28,0.74
+354,Nathaniel Clyne,Crystal Palace,Defender,28,0.82
+355,Manuel Lanzini,West Ham,Midfielder,28,0.74
+356,Pablo Hernández Domínguez,Leeds,Midfielder,28,0.74
+357,Ryan Fredericks,West Ham,Defender,28,0.74
+358,Jacob Ramsey,Aston Villa,Midfielder,28,0.76
+364,Joe Bryan,Fulham,Defender,27,0.71
+362,Tom Cairney,Fulham,Midfielder,27,0.71
+363,Joe Rodon,Spurs,Defender,27,0.82
+361,Mark Noble,West Ham,Midfielder,27,0.71
+359,Ricardo Domingos Barbosa Pereira,Leicester,Defender,27,0.71
+360,Marvelous Nakamba,Aston Villa,Midfielder,27,0.71
+365,Vitor Ferreira,Wolves,Midfielder,26,0.68
+367,James McCarthy,Crystal Palace,Midfielder,26,0.68
+368,Xherdan Shaqiri,Liverpool,Midfielder,26,0.68
+369,Ozan Kabak,Liverpool,Defender,26,1.53
+370,Ainsley Maitland-Niles,Arsenal,Defender,26,1.24
+371,Kepa Arrizabalaga,Chelsea,Goalkeeper,26,0.68
+366,Luke Thomas,Leicester,Defender,26,0.68
+374,Robin Olsen,Everton,Goalkeeper,25,0.74
+375,Mathew Ryan,Brighton,Goalkeeper,25,1.32
+376,Alex Nicolao Telles,Man Utd,Defender,25,0.71
+373,Ben Johnson,West Ham,Defender,25,0.66
+372,Jake Livermore,West Brom,Midfielder,25,0.66
+377,Christian Fuchs,Leicester,Defender,24,0.63
+378,Alireza Jahanbakhsh,Brighton,Midfielder,24,0.63
+379,Keinan Davis,Aston Villa,Striker,23,0.61
+380,Morgan Gibbs-White,Wolves,Midfielder,22,0.58
+381,Alex Oxlade-Chamberlain,Liverpool,Midfielder,21,0.55
+382,Jakub Moder,Brighton,Midfielder,21,1.0
+383,Bernard Anício Caldeira Duarte,Everton,Midfielder,21,0.55
+384,Branislav Ivanovic,West Brom,Defender,20,0.54
+385,Conor Hourihane,Aston Villa,Midfielder,20,0.53
+386,Harry Winks,Spurs,Midfielder,19,0.5
+387,Daniel Amartey,Leicester,Defender,19,0.5
+388,Fernando Marçal,Wolves,Defender,19,0.5
+389,James Tomkins,Crystal Palace,Defender,18,0.47
+392,Filip Krovinovic,West Brom,Midfielder,17,0.49
+393,Andriy Yarmolenko,West Ham,Midfielder,17,0.45
+391,Takumi Minamino,Liverpool,Midfielder,17,0.81
+390,Jamie Shackleton,Leeds,Midfielder,17,0.45
+394,Jonathan Castro Otto,Wolves,Defender,16,0.42
+395,Cengiz Ünder,Leicester,Midfielder,16,0.44
+396,Jean-Philippe Mateta,Crystal Palace,Striker,15,0.79
+397,Naby Keita,Liverpool,Midfielder,15,0.39
+398,Virgil van Dijk,Liverpool,Defender,15,0.39
+399,Francisco Casilla Cortés,Leeds,Goalkeeper,14,0.37
+400,Hamza Choudhury,Leicester,Midfielder,14,0.37
+401,Kevin Long,Burnley,Defender,14,0.37
+402,Japhet Tanganga,Spurs,Defender,14,0.37
+403,Ian Carlo Poveda-Ocampo,Leeds,Midfielder,14,0.37
+404,Mohammed Salisu,Southampton,Defender,14,0.37
+409,Ki-Jana Hoever,Wolves,Defender,13,0.36
+410,DeAndre Yedlin,Newcastle,Defender,13,0.34
+408,Carlos Vinicius Alves Morais,Spurs,Striker,13,0.38
+407,Josh Onomah,Fulham,Midfielder,13,0.34
+406,Daniel N'Lundulu,Southampton,Striker,13,0.39
+405,Lys Mousset,Sheffield Utd,Striker,13,0.34
+411,Fabio Carvalho,Fulham,Midfielder,12,2.4
+412,Mathew Ryan,Arsenal,Goalkeeper,12,0.63
+413,Daniel Jebbison,Sheffield Utd,Striker,12,3.0
+414,Shane Long,Southampton,Striker,12,0.32
+415,Adrián San Miguel del Castillo,Liverpool,Goalkeeper,11,0.29
+416,Robert Snodgrass,West Brom,Midfielder,11,0.52
+417,Anthony Elanga,Man Utd,Midfielder,11,2.2
+418,Joshua King,Everton,Striker,11,0.58
+419,Neco Williams,Liverpool,Defender,11,0.29
+424,Josh Benson,Burnley,Midfielder,10,0.26
+427,Darren Randolph,West Ham,Goalkeeper,10,0.26
+426,Divock Origi,Liverpool,Striker,10,0.26
+425,Matthew Longstaff,Newcastle,Midfielder,10,0.26
+422,Joseph Gomez,Liverpool,Defender,10,0.26
+423,Caoimhin Kelleher,Liverpool,Goalkeeper,10,0.29
+421,Tim Ream,Fulham,Defender,10,0.26
+420,Morgan Sanson,Aston Villa,Midfielder,10,0.5
+428,Owen Otasowie,Wolves,Midfielder,9,0.26
+429,Davy Pröpper,Brighton,Midfielder,9,0.24
+430,Max Lowe,Sheffield Utd,Defender,9,0.24
+431,Jimmy Dunne,Burnley,Defender,9,0.24
+432,Andi Zeqiri,Brighton,Striker,9,0.26
+436,Dale Stephens,Burnley,Midfielder,8,0.22
+439,Fabian Delph,Everton,Midfielder,8,0.21
+437,Gaetano Berardi,Leeds,Defender,8,0.67
+438,Amad Diallo,Man Utd,Midfielder,8,0.42
+435,Aboubakar Kamara,Fulham,Midfielder,8,0.21
+434,Kamil Grosicki,West Brom,Midfielder,8,0.21
+433,Billy Gilmour,Chelsea,Midfielder,8,0.21
+440,Scott Carson,Man City,Goalkeeper,7,0.27
+441,Percy Tau,Brighton,Midfielder,7,0.33
+442,Joseph Willock,Arsenal,Midfielder,7,0.33
+443,Axel Tuanzebe,Man Utd,Defender,7,0.18
+444,Emerson Palmieri dos Santos,Chelsea,Defender,7,0.18
+445,Eric Garcia,Man City,Defender,6,0.16
+446,Neeskens Kebano,Fulham,Midfielder,6,0.16
+447,Ahmed El-Sayed Hegazy,West Brom,Defender,6,0.16
+452,Kieran Gibbs,West Brom,Defender,5,0.13
+455,William Smallbone,Southampton,Midfielder,5,0.13
+453,Kyle Edwards,West Brom,Midfielder,5,0.13
+454,Charlie Austin,West Brom,Striker,5,0.13
+451,Brandon Williams,Man Utd,Defender,5,0.13
+448,Phil Jagielka,Sheffield Utd,Defender,5,0.13
+449,Jonjoe Kenny,Everton,Defender,5,0.13
+450,Bernardo Fernandes da Silva Junior,Brighton,Defender,5,0.13
+456,Mamadou Sakho,Crystal Palace,Defender,4,0.11
+457,John Ruddy,Wolves,Goalkeeper,4,0.11
+458,Cenk Tosun,Everton,Striker,4,0.11
+459,Michael Obafemi,Southampton,Striker,4,0.11
+466,Wesley Moraes,Aston Villa,Striker,3,0.08
+471,Anthony Gordon,Everton,Midfielder,3,0.08
+470,Shkodran Mustafi,Arsenal,Defender,3,0.08
+469,Yan Valery,Southampton,Defender,3,0.08
+468,Jack O'Connell,Sheffield Utd,Defender,3,0.08
+467,Sidnei Tavares,Leicester,Midfielder,3,0.23
+465,Wes Morgan,Leicester,Defender,3,0.08
+463,Joel Mumbongo,Burnley,Striker,3,0.12
+462,Sam Field,West Brom,Midfielder,3,0.08
+461,Bailey Peacock-Farrell,Burnley,Goalkeeper,3,0.08
+460,Will Norris,Burnley,Goalkeeper,3,0.09
+464,Robert Snodgrass,West Ham,Midfielder,3,0.18
+489,Leif Davis,Leeds,Defender,2,0.05
+485,Caleb Watts,Southampton,Midfielder,2,0.1
+486,Reiss Nelson,Arsenal,Midfielder,2,0.05
+487,Terence Kongolo,Fulham,Defender,2,0.06
+488,David Button,West Brom,Goalkeeper,2,0.05
+492,Marek Rodák,Fulham,Goalkeeper,2,0.05
+490,Lewis Richardson,Burnley,Striker,2,0.06
+491,Zack Steffen,Man City,Goalkeeper,2,0.05
+494,Lee Peltier,West Brom,Defender,2,0.06
+483,Shola Shoretire,Man Utd,Midfielder,2,0.14
+484,Rekeem Harper,West Brom,Midfielder,2,0.05
+493,Konstantinos Tsimikas,Liverpool,Defender,2,0.05
+482,Niels Nkounkou,Everton,Defender,2,0.06
+476,Ross Barkley,Chelsea,Midfielder,2,0.67
+481,Jack Butland,Crystal Palace,Goalkeeper,2,0.06
+473,João Virgínia,Everton,Goalkeeper,2,0.05
+472,Ruben Loftus-Cheek,Chelsea,Midfielder,2,0.5
+475,Moise Kean,Everton,Striker,2,0.05
+474,Phil Bardsley,Burnley,Defender,2,0.05
+477,Patrick Cutrone,Wolves,Striker,2,0.1
+478,Felipe Anderson Pereira Gomes,West Ham,Midfielder,2,0.05
+479,Carney Chukwuemeka,Aston Villa,Midfielder,2,0.12
+480,Sead Kolasinac,Arsenal,Defender,2,0.05
+518,Iliman Ndiaye,Sheffield Utd,Midfielder,1,0.06
+512,Tyrese Francois,Fulham,Midfielder,1,1.0
+513,Denis Odoi,Fulham,Defender,1,0.03
+514,Rúben Gonçalo Silva Nascimento Vinagre,Wolves,Defender,1,0.03
+515,Elliot Anderson,Newcastle,Midfielder,1,0.03
+517,Rúnar Alex Rúnarsson,Arsenal,Goalkeeper,1,0.03
+524,Antwoine Hackford,Sheffield Utd,Striker,1,0.05
+519,Maxime Le Marchand,Fulham,Defender,1,0.03
+520,José Izquierdo,Brighton,Midfielder,1,0.03
+521,Islam Slimani,Leicester,Striker,1,0.03
+522,Demarai Gray,Leicester,Midfielder,1,0.03
+523,Willy Caballero,Chelsea,Goalkeeper,1,0.03
+510,Odion Ighalo,Man Utd,Striker,1,0.03
+511,William Fish,Man Utd,Defender,1,1.0
+516,Dane Scarlett,Spurs,Striker,1,0.06
+509,Martin Kelly,Crystal Palace,Defender,1,0.03
+501,Niall Huggins,Leeds,Striker,1,0.05
+508,Reda Khadra,Brighton,Midfielder,1,0.05
+495,Jake Vokins,Southampton,Defender,1,0.03
+496,Hannibal Mejbri,Man Utd,Midfielder,1,1.0
+497,Oskar Buur,Wolves,Defender,1,0.03
+499,Liam Delap,Man City,Striker,1,0.03
+500,Femi Seriki,Sheffield Utd,Midfielder,1,0.5
+498,Jaden Philogene-Bidace,Aston Villa,Midfielder,1,0.08
+502,Nathan Broadhead,Everton,Midfielder,1,0.07
+503,Theo Walcott,Everton,Midfielder,1,0.25
+504,Theo Corbeanu,Wolves,Midfielder,1,0.04
+505,Jean-Philippe Gbamin,Everton,Midfielder,1,0.03
+506,Jayson Molumby,Brighton,Midfielder,1,0.03
+507,Thakgalo Leshabela,Leicester,Midfielder,1,0.06
+652,Leighton Clarkson,Liverpool,Midfielder,0,0.0
+660,Kgaogelo Chauke,Southampton,Midfielder,0,0.0
+653,Mateusz Bogusz,Leeds,Midfielder,0,0.0
+672,Reece Hannam,Crystal Palace,Defender,0,0.0
+654,Lee Grant,Man Utd,Goalkeeper,0,0.0
+655,Kyron Gordon,Sheffield Utd,Defender,0,0.0
+656,Matija Sarkic,Wolves,Goalkeeper,0,0.0
+657,Kyle John,Everton,Defender,0,0.0
+658,Matt Macey,Arsenal,Goalkeeper,0,0.0
+659,Matteo Guendouzi,Arsenal,Midfielder,0,0.0
+667,Jed Steer,Aston Villa,Goalkeeper,0,0.0
+661,Matthew Clarke,Brighton,Defender,0,0.0
+662,Kevin McDonald,Fulham,Midfielder,0,0.0
+663,Kenneth Zohore,West Brom,Striker,0,0.0
+664,Matty James,Leicester,Midfielder,0,0.0
+665,Jesse Lingard,Man Utd,Midfielder,0,0.0
+666,Jensen Weir,Brighton,Midfielder,0,0.0
+668,Phil Jones,Man Utd,Defender,0,0.0
+669,Gedson Carvalho Fernandes,Spurs,Midfielder,0,0.0
+670,Frédéric Guilbert,Aston Villa,Defender,0,0.0
+671,Frederik Alves,West Ham,Defender,0,0.0
+650,Lewis Richards,Wolves,Defender,0,0.0
+651,Leonardo Campana,Wolves,Striker,0,0.0
+631,Nathan Ferguson,Crystal Palace,Defender,0,0.0
+649,Liam Hughes,Liverpool,Goalkeeper,0,0.0
+636,Max Thompson,Burnley,Striker,0,0.0
+626,Jordan Stevens,Leeds,Midfielder,0,0.0
+627,Jordan Hugill,West Ham,Striker,0,0.0
+628,Jonathan Leko,West Brom,Midfielder,0,0.0
+629,Jonas Lössl,Everton,Goalkeeper,0,0.0
+630,Nathan Bishop,Man Utd,Goalkeeper,0,0.0
+674,Reece Welch,Everton,Defender,0,0.0
+632,Joe Hart,Spurs,Goalkeeper,0,0.0
+633,Joe Gelhardt,Leeds,Striker,0,0.0
+634,Nathan Trott,West Ham,Goalkeeper,0,0.0
+635,Jesurun Rak-Sakyi,Crystal Palace,Midfielder,0,0.0
+637,Max Meyer,Crystal Palace,Midfielder,0,0.0
+648,Martín Montoya,Brighton,Defender,0,0.0
+638,Ryan Finnigan,Southampton,Midfielder,0,0.0
+639,Kelland Watts,Newcastle,Defender,0,0.0
+640,Marcos Rojo,Man Utd,Defender,0,0.0
+641,Marcus Bettinelli,Fulham,Goalkeeper,0,0.0
+642,Léo Bonatini,Wolves,Striker,0,0.0
+643,Luke Mbete,Man City,Defender,0,0.0
+644,Mark Gillespie,Newcastle,Goalkeeper,0,0.0
+645,Luke Freeman,Sheffield Utd,Midfielder,0,0.0
+646,Luke Cundle,Wolves,Midfielder,0,0.0
+647,Lucas Torreira,Arsenal,Midfielder,0,0.0
+673,Frankie Maguire,Sheffield Utd,Midfielder,0,0.0
+694,Glenn Murray,Brighton,Striker,0,0.0
+675,Rhian Brewster,Liverpool,Striker,0,0.0
+701,Jarrad Branthwaite,Everton,Defender,0,0.0
+703,James Garner,Man Utd,Midfielder,0,0.0
+704,Oliver Casey,Leeds,Defender,0,0.0
+705,James Bree,Aston Villa,Defender,0,0.0
+706,Jamal Baptiste,West Ham,Defender,0,0.0
+707,Oliver Skipp,Spurs,Midfielder,0,0.0
+708,Jean Michaël Seri,Fulham,Midfielder,0,0.0
+709,Jake Cain,Liverpool,Midfielder,0,0.0
+710,Nicolás Otamendi,Man City,Defender,0,0.0
+711,Jack Wilshere,West Ham,Midfielder,0,0.0
+712,Jack Jenkins,Leeds,Midfielder,0,0.0
+713,Isaac Price,Everton,Midfielder,0,0.0
+714,Indiana Vassilev,Aston Villa,Striker,0,0.0
+715,Hugo Bueno,Wolves,Defender,0,0.0
+716,Henri Lansbury,Aston Villa,Midfielder,0,0.0
+717,Harvey Elliott,Liverpool,Midfielder,0,0.0
+718,Paulo Gazzaniga,Spurs,Goalkeeper,0,0.0
+719,Harry Wilson,Liverpool,Midfielder,0,0.0
+720,Harry Tyrer,Everton,Goalkeeper,0,0.0
+721,Harry Lewis,Southampton,Goalkeeper,0,0.0
+722,Nigel Lonwijk,Wolves,Defender,0,0.0
+624,Moisés Caicedo,Brighton,Midfielder,0,0.0
+702,James Trafford,Man City,Goalkeeper,0,0.0
+700,Jason Steele,Brighton,Goalkeeper,0,0.0
+676,Florin Andone,Brighton,Striker,0,0.0
+699,Jay-Roy Grot,Leeds,Midfielder,0,0.0
+677,Florian Lejeune,Newcastle,Defender,0,0.0
+678,Filip Benkovic,Leicester,Defender,0,0.0
+679,Richard Nartey,Burnley,Defender,0,0.0
+680,Fikayo Tomori,Chelsea,Defender,0,0.0
+681,Mace Goodridge,Burnley,Midfielder,0,0.0
+682,Faustino Anjorin,Chelsea,Midfielder,0,0.0
+683,Facundo Pellistri,Man Utd,Midfielder,0,0.0
+684,Fabricio Agosto Ramírez,Fulham,Goalkeeper,0,0.0
+685,Roberto Jimenez Gago,West Ham,Goalkeeper,0,0.0
+686,Emiliano Martínez,Arsenal,Goalkeeper,0,0.0
+687,Ellis Simms,Everton,Striker,0,0.0
+688,Rolando Aarons,Newcastle,Midfielder,0,0.0
+689,Elia Caprile,Leeds,Goalkeeper,0,0.0
+690,Diogo Jota,Wolves,Midfielder,0,0.0
+691,Ryan Astley,Everton,Defender,0,0.0
+692,Ryan Bennett,Wolves,Defender,0,0.0
+693,David Martin,West Ham,Goalkeeper,0,0.0
+695,Harry Boyes,Sheffield Utd,Defender,0,0.0
+696,Ørjan Nyland,Aston Villa,Goalkeeper,0,0.0
+697,Jakub Ojrzynski,Liverpool,Goalkeeper,0,0.0
+698,Nile John,Spurs,Midfielder,0,0.0
+625,Josh Sims,Southampton,Midfielder,0,0.0
+544,Dale Stephens,Brighton,Midfielder,0,0.0
+623,José Diogo Dalot Teixeira,Man Utd,Defender,0,0.0
+549,Conor Coventry,West Ham,Midfielder,0,0.0
+551,Connor Wickham,Crystal Palace,Striker,0,0.0
+552,Cole Palmer,Man City,Midfielder,0,0.0
+553,Yoshinori Muto,Newcastle,Striker,0,0.0
+554,Chris Smalling,Man Utd,Defender,0,0.0
+555,Cody Drameh,Leeds,Defender,0,0.0
+556,Claudio Gomes,Man City,Midfielder,0,0.0
+557,Claudio Bravo,Man City,Goalkeeper,0,0.0
+558,Sokratis Papastathopoulos,Arsenal,Defender,0,0.0
+559,Sylvester Jasper,Fulham,Midfielder,0,0.0
+560,Stefan Johansen,Fulham,Midfielder,0,0.0
+561,Stephen Henderson,Crystal Palace,Goalkeeper,0,0.0
+562,Bjorn Engels,Aston Villa,Defender,0,0.0
+563,Tim Iroegbunam,West Brom,Midfielder,0,0.0
+564,Billy Koumetio,Liverpool,Defender,0,0.0
+565,Wayne Hennessey,Crystal Palace,Goalkeeper,0,0.0
+566,Vontae Daley-Campbell,Leicester,Defender,0,0.0
+567,Andreas Pereira,Man Utd,Midfielder,0,0.0
+568,Ben Woodburn,Liverpool,Midfielder,0,0.0
+569,Timothy Fosu-Mensah,Man Utd,Defender,0,0.0
+570,Andreas Söndergaard,Wolves,Goalkeeper,0,0.0
+571,Ben Gibson,Burnley,Defender,0,0.0
+550,Ademipo Odubeko,West Ham,Striker,0,0.0
+548,Adam Forshaw,Leeds,Midfielder,0,0.0
+622,José Ignacio Peleteiro Romallo,Aston Villa,Midfielder,0,0.0
+547,Crysencio Summerville,Leeds,Midfielder,0,0.0
+525,Albian Ajeti,West Ham,Striker,0,0.0
+526,Sofiane Boufal,Southampton,Midfielder,0,0.0
+527,Shane Duffy,Brighton,Defender,0,0.0
+528,Christian Marques,Wolves,Defender,0,0.0
+529,Shane Flynn,Leicester,Midfielder,0,0.0
+530,Christian Atsu,Newcastle,Midfielder,0,0.0
+531,Adrián Bernabé,Man City,Midfielder,0,0.0
+532,Simon Moore,Sheffield Utd,Goalkeeper,0,0.0
+533,Sergio Romero,Man Utd,Goalkeeper,0,0.0
+534,Anthony Knockaert,Fulham,Midfielder,0,0.0
+535,Adrien Silva,Leicester,Midfielder,0,0.0
+536,Christian Walton,Brighton,Goalkeeper,0,0.0
+537,Ryan Sessegnon,Spurs,Defender,0,0.0
+538,Danny Rose,Spurs,Defender,0,0.0
+539,Daniel Langley,Newcastle,Goalkeeper,0,0.0
+540,Aaron Mooy,Brighton,Midfielder,0,0.0
+541,Zeze Steven Sessegnon,Fulham,Defender,0,0.0
+542,Zak Brunt,Sheffield Utd,Midfielder,0,0.0
+543,Sam Greenwood,Leeds,Striker,0,0.0
+545,Sam Woods,Crystal Palace,Defender,0,0.0
+546,Cyrus Christie,Fulham,Defender,0,0.0
+572,Toby King,West Brom,Midfielder,0,0.0
+573,Ben Davies,Liverpool,Defender,0,0.0
+574,Barry Douglas,Leeds,Defender,0,0.0
+575,Andy Lonergan,West Brom,Goalkeeper,0,0.0
+601,Teddy Jenks,Brighton,Midfielder,0,0.0
+602,Teden Mengi,Man Utd,Defender,0,0.0
+603,Alfie Devine,Spurs,Midfielder,0,0.0
+604,Alfie Mawson,Fulham,Defender,0,0.0
+605,Ryan Inniss,Crystal Palace,Defender,0,0.0
+606,Allan Tchaptchet,Southampton,Defender,0,0.0
+607,Thanawat Suengchitthawon,Leicester,Midfielder,0,0.0
+608,Felix Nmecha,Man City,Midfielder,0,0.0
+609,Danny Ward,Leicester,Goalkeeper,0,0.0
+610,Max Sanders,Brighton,Midfielder,0,0.0
+611,Karlo Ziger,Chelsea,Goalkeeper,0,0.0
+612,Mbwana Samatta,Aston Villa,Striker,0,0.0
+613,Meritan Shabani,Wolves,Midfielder,0,0.0
+614,Mesut Özil,Arsenal,Midfielder,0,0.0
+615,Michael Hector,Fulham,Defender,0,0.0
+616,Kamil Miazek,Leeds,Goalkeeper,0,0.0
+617,Michael Verrips,Sheffield Utd,Goalkeeper,0,0.0
+618,Kaine Hayden,Aston Villa,Midfielder,0,0.0
+619,Michal Karbownik,Brighton,Defender,0,0.0
+620,Juan Foyth,Spurs,Defender,0,0.0
+621,Miguel Azeez,Arsenal,Midfielder,0,0.0
+600,Taylor Perry,Wolves,Midfielder,0,0.0
+599,Taylor Harwood-Bellis,Man City,Defender,0,0.0
+598,Taylor Gardner-Hickman,West Brom,Midfielder,0,0.0
+586,Bruno André Cavaco Jordao,Wolves,Midfielder,0,0.0
+576,Tom Heaton,Aston Villa,Goalkeeper,0,0.0
+577,Tommy Doyle,Man City,Midfielder,0,0.0
+578,Angus Gunn,Southampton,Goalkeeper,0,0.0
+579,Anthony Driscoll-Glennon,Burnley,Defender,0,0.0
+580,Tyler Onyango,Everton,Midfielder,0,0.0
+581,Anthony Mancini,Burnley,Midfielder,0,0.0
+582,Valentino Livramento,Chelsea,Defender,0,0.0
+583,Thomas McGill,Brighton,Goalkeeper,0,0.0
+584,Bobby Thomas,Burnley,Defender,0,0.0
+597,Wes Foderingham,Sheffield Utd,Goalkeeper,0,0.0
+585,Brandon Pierrick,Crystal Palace,Midfielder,0,0.0
+587,Cheikh Diaby,West Brom,Striker,0,0.0
+588,Charlie Cresswell,Leeds,Defender,0,0.0
+589,William Saliba,Arsenal,Defender,0,0.0
+590,William Osula,Sheffield Utd,Striker,0,0.0
+591,Cedric Kipre,West Brom,Defender,0,0.0
+592,Tahith Chong,Man Utd,Midfielder,0,0.0
+593,Will Ferry,Southampton,Midfielder,0,0.0
+594,Cameron Carter-Vickers,Spurs,Defender,0,0.0
+595,Caleb Taylor,West Brom,Defender,0,0.0
+596,Tawanda Maswanhise,Leicester,Midfielder,0,0.0
+723,Neil Taylor,Aston Villa,Defender,-1,-0.03
+724,Alexandre Jankewitz,Southampton,Midfielder,-1,-0.05
+725,Kayne Ramsay,Southampton,Defender,-3,-0.1
