@@ -11,12 +11,12 @@ st.write("This app allows you to analyze [Fantasy Premier League](https://fantas
          "performance for the 2020-21 season.\n")
 
 # Read in data, clean columns
-df = pd.read_csv("premier_league_player_stats_2020_21.csv")
+df = pd.read_csv("datasets/premier_league_player_stats_2020_21.csv")
 df = df.drop(columns=['Unnamed: 0'])
 df.rename(columns={'name': 'player'}, inplace=True)
 
 # Read in grouped data, clean columns
-grouped = pd.read_csv("premier_league_player_stats_2020_21_grouped.csv")
+grouped = pd.read_csv("datasets/premier_league_player_stats_2020_21_grouped.csv")
 grouped = grouped.drop(columns='Unnamed: 0')
 grouped['average'] = grouped['average'].round(2)
 
