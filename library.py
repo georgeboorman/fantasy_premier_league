@@ -19,7 +19,7 @@ def top_performers(df, position, metric, num):
     """
 
     # Subset the data for the position of interest
-    data = grouped[grouped['position'] == position].sort_values(metric, ascending=False).head(num)
+    data = df[df['position'] == position].sort_values(metric, ascending=False).head(num)
 
     # Create the plot and update the layout
     fig = px.bar(x='player', y=metric, data_frame=data, color='team',
