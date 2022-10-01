@@ -28,7 +28,7 @@ def top_performers(df, position, metric, num):
     fig.update_layout(xaxis_title='Player Name', yaxis_title='Fantasy Points')
     return fig
   
-  def player_performance(df, player):
+def player_performance(df, player):
     """Function to return a scatter plot of an individual's performance across a season
     Args:
         df: pandas DataFrame for use in function
