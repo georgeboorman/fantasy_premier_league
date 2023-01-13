@@ -75,7 +75,7 @@ def player_performance(df, player):
     data = df[df['player'] == player]
 
     # Create the plot and update the layout
-    fig = px.line(data_frame=data, x='GW', y='total_points', color='opp_team', 
+    fig = px.bar(data_frame=data, x='GW', y='total_points', color='opp_team', 
                     title="{}'s Performance by Game Week".format(player),
                     labels={'opp_team': 'Opponent', 'total_points':'Points', 'GW':'Game Week'})
     fig.update_layout(xaxis_title='Game Week', yaxis_title='Fantasy Points', showlegend=False)
